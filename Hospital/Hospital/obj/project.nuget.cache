@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gw8kff8gjn1P06Vr33T1fbiIWAO8GZhpisvrW8T3SSg3C+i8l3joSZwMBRElSUBefzT8/3PTkm74dJRiVg+psw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sabina\\source\\repos\\Hospital\\Hospital\\Hospital.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabina\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\sabina\source\repos\Hospital\Hospital\bin\Debug\net8.0\Hospital.exe
+C:\Users\sabina\source\repos\Hospital\Hospital\bin\Debug\net8.0\Hospital.deps.json
+C:\Users\sabina\source\repos\Hospital\Hospital\bin\Debug\net8.0\Hospital.runtimeconfig.json
+C:\Users\sabina\source\repos\Hospital\Hospital\bin\Debug\net8.0\Hospital.dll
+C:\Users\sabina\source\repos\Hospital\Hospital\bin\Debug\net8.0\Hospital.pdb
+C:\Users\sabina\source\repos\Hospital\Hospital\obj\Debug\net8.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabina\source\repos\Hospital\Hospital\obj\Debug\net8.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\sabina\source\repos\Hospital\Hospital\obj\Debug\net8.0\Hospital.AssemblyInfo.cs
+C:\Users\sabina\source\repos\Hospital\Hospital\obj\Debug\net8.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\sabina\source\repos\Hospital\Hospital\obj\Debug\net8.0\Hospital.dll
+C:\Users\sabina\source\repos\Hospital\Hospital\obj\Debug\net8.0\refint\Hospital.dll
+C:\Users\sabina\source\repos\Hospital\Hospital\obj\Debug\net8.0\Hospital.pdb
+C:\Users\sabina\source\repos\Hospital\Hospital\obj\Debug\net8.0\Hospital.genruntimeconfig.cache
+C:\Users\sabina\source\repos\Hospital\Hospital\obj\Debug\net8.0\ref\Hospital.dll
+C:\Users\sabina\source\repos\Hospital\Hospital\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sabina\source\repos\Hospital\Hospital\obj\Debug\net8.0\Hospital.csproj.AssemblyReference.cache
+C:\Users\sabina\source\repos\Hospital\Hospital\obj\Debug\net8.0\Hospital.csproj.CopyComplete

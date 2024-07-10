@@ -1,0 +1,17 @@
+{
+  "User": {
+    "Name": "sabina",
+    "Surname": "shakiyeva",
+    "Email": "sabina@gmail",
+    "Number": "1234"
+  },
+  "Doctor": {
+    "Name": "Farida",
+    "Surname": "Shakiyeva",
+    "WorkExperience": 5,
+    "Saat1": true,
+    "Saat2": true,
+    "Saat3": false
+  },
+  "Time": "12:00-14:00"
+}
